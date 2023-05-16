@@ -1,6 +1,4 @@
-# Egzamin-1-Z2J
-
-Egzamin na poziom 102
+# Egzamin 1
 
 1.  W title (nazwa karty) ma wartość “Egzamin 1”
 2.  Viewport ma ustawiony tak, żeby wspierała responsywność
